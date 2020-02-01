@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\lukas\source\repos\TCP_Server_1\Server\main.cpp(109,65): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukas\source\repos\TCP_Server_1\Server\main.cpp(125,82): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 91 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Server.vcxproj -> C:\Users\lukas\source\repos\TCP_Server_1\x64\Release\Server.exe
